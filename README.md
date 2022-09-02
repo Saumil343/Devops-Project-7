@@ -48,3 +48,4 @@
 <b> DOCUMENTATIONS WHICH HELPED TO RESOLVE ERRORS </b>
 - https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent-operations-install-linux.html
 - https://aws.amazon.com/premiumsupport/knowledge-center/codedeploy-agent-non-root-profile/
+- https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file.html
