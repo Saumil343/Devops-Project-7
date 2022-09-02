@@ -15,3 +15,23 @@
 
 
 
+
+ - <b>  Creating IAM role to attach to EC2 instance </b>
+ -  Policies In the IAM Role :
+ -  ![image](https://user-images.githubusercontent.com/53990452/188197786-359ced6d-987d-42e9-beb0-42546eb22e85.png)
+
+
+- <b> Creating IAM role to attach to AWS CODE DEPLOY </b>
+-  Policies in the IAM Role :
+-  ![image](https://user-images.githubusercontent.com/53990452/188199120-9c6dacf6-d179-4c30-8818-6224df8f1abf.png)
+
+
+
+
+
+- <b> Creating AWS CODE DEPLOY  APPLICATION  AND DEPLOYMENT GROUPS </b> 
+![Screenshot (101)](https://user-images.githubusercontent.com/53990452/188200145-699f2cc3-b220-441b-85d3-bf3e652aadb7.png)
+![Screenshot (102)](https://user-images.githubusercontent.com/53990452/188200155-6e5929e7-d6c2-497a-8bd2-37664feb6db0.png)
+![Screenshot (103)](https://user-images.githubusercontent.com/53990452/188200159-4f956e54-6d7c-461f-9e2a-a27f9a08155d.png)
+![Screenshot (104)](https://user-images.githubusercontent.com/53990452/188200161-692988f2-b125-4566-b5cb-20b8fc94d7a2.png)
+
