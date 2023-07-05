@@ -1,7 +1,7 @@
 # Devops-Project-7
 
-Project Description:
-This workshop focuses on implementing a CI/CD pipeline using GitHub and various AWS services.
+<b> Project Description: </b>
+- This workshop focuses on implementing a CI/CD pipeline using GitHub and various AWS services.
 you will learn how to deploy the latest web application code from GitHub to an Apache server running on an AWS EC2 instance.
 The workshop demonstrates the seamless integration of version control, automated builds, and deployment processes.
 
