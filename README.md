@@ -12,7 +12,7 @@ The workshop demonstrates the seamless integration of version control, automated
 - AWS EC2 Instance: Virtual machine hosting the Apache server to deploy the web application.
 - IAM Roles: Provide the necessary permissions and access control for different AWS services.
 
-- <b> PROJECT LIFECYCLE </b>
+<b> PROJECT LIFECYCLE </b>
 
 - ![devops project 6 drawio](https://user-images.githubusercontent.com/53990452/188196586-5d968cec-891f-4d4c-83dc-ca106fa69939.png)
 
