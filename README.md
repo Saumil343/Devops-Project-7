@@ -1,9 +1,16 @@
-# Devops-Project-7
+# Devops-Project-7 
 
 <b> Project Description: </b>
 - This workshop focuses on implementing a CI/CD pipeline using GitHub and various AWS services.
 you will learn how to deploy the latest web application code from GitHub to an Apache server running on an AWS EC2 instance.
 The workshop demonstrates the seamless integration of version control, automated builds, and deployment processes.
+
+<b> Technologies Used </b>
+GitHub: Version control repository for the web application code.
+AWS CodePipeline: Automates the release process by orchestrating the flow of changes through the pipeline.
+AWS CodeBuild: Builds the web application code using defined build commands and runtime configurations.
+AWS EC2 Instance: Virtual machine hosting the Apache server to deploy the web application.
+IAM Roles: Provide the necessary permissions and access control for different AWS services.
 
 - <b> PROJECT LIFECYCLE </b>
 
