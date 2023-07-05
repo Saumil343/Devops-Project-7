@@ -23,22 +23,20 @@ The workshop demonstrates the seamless integration of version control, automated
  -  ![image](https://user-images.githubusercontent.com/53990452/188197786-359ced6d-987d-42e9-beb0-42546eb22e85.png)
 
 
-- <b> Creating IAM role to attach to AWS CODE DEPLOY </b>
+<b> Creating IAM role to attach to AWS CODE DEPLOY </b>
 -  Policies in the IAM Role :
 -  ![image](https://user-images.githubusercontent.com/53990452/188199120-9c6dacf6-d179-4c30-8818-6224df8f1abf.png)
 
 
 
-
-
-- <b> Creating AWS CODE DEPLOY  APPLICATION  AND DEPLOYMENT GROUPS </b> 
+<b> Creating AWS CODE DEPLOY  APPLICATION  AND DEPLOYMENT GROUPS </b> 
 - ![Screenshot (101)](https://user-images.githubusercontent.com/53990452/188200145-699f2cc3-b220-441b-85d3-bf3e652aadb7.png)
 - ![Screenshot (102)](https://user-images.githubusercontent.com/53990452/188200155-6e5929e7-d6c2-497a-8bd2-37664feb6db0.png)
 - ![Screenshot (103)](https://user-images.githubusercontent.com/53990452/188200159-4f956e54-6d7c-461f-9e2a-a27f9a08155d.png)
 - ![Screenshot (104)](https://user-images.githubusercontent.com/53990452/188200161-692988f2-b125-4566-b5cb-20b8fc94d7a2.png)
 
 
-- <b> Creating AWS CODE PIPELINE TO DEPLOY FROM GITHUB TO CODE DEPLOY</b>
+<b> Creating AWS CODE PIPELINE TO DEPLOY FROM GITHUB TO CODE DEPLOY</b>
 ![Screenshot (105)](https://user-images.githubusercontent.com/53990452/188200979-2eee9c7a-1a2f-4c9d-8e76-a5339d85f781.png)
 ![Screenshot (106)](https://user-images.githubusercontent.com/53990452/188200984-69f94ad2-0e2c-4ba5-b47f-592d7757ee84.png)
 ![Screenshot (107)](https://user-images.githubusercontent.com/53990452/188200987-9111bb2b-ebe6-46ac-b902-722287c10581.png)
